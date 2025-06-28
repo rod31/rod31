@@ -13,8 +13,9 @@ I'm a Computer Engineering graduate with a minor in Neuroscience, passionate abo
 **Tools**: Power BI, Azure Databricks, Git, Arduino  
 
 ## 🚀 Featured Projects
-- 🎛️ [Optogenetics Control System](#) – Arduino-based neurostimulation system with a Python GUI for real-time LED protocol design  
-- 💬 [Succession NLP Project](#) – Fine-tuned BERT model to detect sarcasm in dialogue and generate character-style responses  
+- 🎛️ [Optogenetics Control System](https://github.com/rod31/optogenetics-gui) – Arduino-based neurostimulation system with a Python GUI for real-time LED protocol design  
+- 💬 [Succession NLP Project](https://github.com/rod31/succession-nlp) – Fine-tuned BERT model to detect sarcasm in dialogue and generate character-style responses  
+- 🧠 [EEG Reaction Time Prediction](https://github.com/rod31/eeg-reaction-time) – SVM model trained on EEG features (theta/alpha bands) to classify fast vs. slow reaction times in closed-loop tasks  
 - 🎥 [IMDB Sentiment Classifier](#) – Compared traditional ML models and transformers for review classification  
 - 📊 [GS1 + Fulton Co-op Projects](#) – Real-world data pipelines, QA scripts, and Power BI dashboards
 
