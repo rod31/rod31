@@ -3,9 +3,9 @@
 I'm a Computer Engineering graduate with a minor in Neuroscience, passionate about machine learning, neurotechnology, and real-world AI applications. I love building systems that connect data, behavior, and biology.
 
 ## 🧠 Interests
-- EEG signal processing & cognitive ML
+- Data Science & Machine Learning
+- EEG signal processing & cognitive science
 - NLP & Generative AI (sarcasm detection, style transfer)
-- Data visualization and MLOps tools
 
 ## 🛠️ Skills
 **Languages**: Python, C++, SQL, MATLAB  
