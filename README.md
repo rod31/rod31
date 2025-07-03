@@ -19,6 +19,9 @@ I'm a Computer Engineering graduate with a minor in Neuroscience, passionate abo
 - 🎥 [IMDB Sentiment Classifier](#) – Compared traditional ML models and transformers for review classification  
 - 📊 [GS1 + Fulton Co-op Projects](#) – Real-world data pipelines, QA scripts, and Power BI dashboards
 
+# 🎨 Portfolio  
+Live at [rod31.github.io](https://rod31.github.io/)  
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rb-aragao)  
 - Email: rodrigo01.aragao@gmail.com  
