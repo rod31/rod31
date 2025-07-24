@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo 👋
 
-I’m a recent Computer Engineering graduate (minor in Neuroscience) passionate about leveraging AI, ML, and neurotechnology to build real‑world systems that connect data, behavior, and biology. Outside of code, I’m an avid literature reader, a movie enthusiast, and an (occasionally) amateur DJ.
+I’m a recent Computer Engineering graduate (minor in Neuroscience) passionate about leveraging AI, ML, and neurotechnology to build real‑world systems that connect data, behavior, and biology. Outside of code, I’m an avid literature reader, a movie enthusiast, and an (occasional) amateur DJ.
 
 ## 🧠 Interests
 
