@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo 👋
 
-Junior AI Engineer at a GovTech startup, building RAG pipelines, LLM tooling, and recommendation systems. CS + Neuroscience background from Drexel — I use it as context, not a label.
+Junior AI Engineer at a GovTech startup, building RAG pipelines, LLM tooling, and recommendation systems. CS + Neuroscience background from Drexel.
 
 ## What I'm working on
 
