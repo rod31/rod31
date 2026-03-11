@@ -1,36 +1,25 @@
 # Hi, I'm Rodrigo 👋
 
-I’m a recent Computer Engineering graduate (minor in Neuroscience) passionate about leveraging AI, ML, and neurotechnology to build real‑world systems that connect data, behavior, and biology. Outside of code, I’m an avid literature reader, movie enthusiast, and (occasional) musician.
+Junior AI Engineer at a GovTech startup, building RAG pipelines, LLM tooling, and recommendation systems. CS + Neuroscience background from Drexel — I use it as context, not a label.
 
-## 🧠 Interests
+## What I'm working on
 
-* Data Science & Machine Learning
-* NLP & Generative AI (chatbots, style transfer, sarcasm detection)
-* EEG signal processing & cognitive applications (Neuroscience)
+- **[Litema](https://github.com/rod31/litema)** — A cross-media taste engine that recommends movies, TV, and books based on vibe, not genre. AI-generated embeddings + pgvector similarity search + React Native app.
+- **MCP server** — Enabling natural language queries over live enterprise data (goals, budgets, project status) for government clients.
 
-## 🛠️ Skills
+## Stack
 
-**Languages:** Python, C++, SQL, MATLAB
-**ML & Frameworks:** PyTorch, TensorFlow, Hugging Face, Scikit‑learn, PySpark
-**Cloud & Tools:** Azure Databricks, FAISS, Power BI, Streamlit, Git, Docker
-**Hardware & IoT:** Arduino, Optogenetics LED control
+**AI/ML:** LLMs, RAG pipelines, embeddings, vector search, Hugging Face, scikit-learn
+**Infra:** FastAPI, Docker, n8n, Coolify
+**Data:** PySpark, Azure Databricks, Supabase/pgvector, Pinecone, SQL
+**Languages:** Python, TypeScript, SQL, MATLAB
 
-## 🚀 Featured Projects
+## Projects
 
-* 💬 [Succession Chatbot](https://github.com/rod31/succession-chatbot) – Custom Streamlit app that lets you "chat" live with Roman, Shiv, Kendall, or Logan Roy. Extracted and indexed dialogue, built FAISS similarity search, and fine‑tuned GPT to emulate character style.
-* 🎛️ [Optogenetics Control System](https://github.com/rod31/optogenetics-gui) – Arduino‑based LED protocol GUI for neuroscience experiments, supporting real‑time, multi‑well light patterns and metadata logging.
-* 🧠 [EEG Reaction Time Prediction](https://github.com/rod31/eeg-reaction-time) – SVM model trained on alpha/theta EEG features to classify fast vs. slow reaction times; full ML pipeline in MATLAB.
-* 🎥 [IMDB Sentiment Classifier](https://github.com/rod31/imdb-sentiment-analysis) – Benchmark of traditional ML vs. transformer models on review sentiment, with cross‑validation and performance dashboards.
-* 📊 [GS1 & Fulton Bank Co‑op](#) – Designed and documented Azure Databricks PySpark pipelines, Azure Data Factory ELT workflows, and Power BI dashboards for enterprise data analytics.
+- 🎯 [Litema](https://github.com/rod31/litema) — Cross-media recommendation engine (embeddings + pgvector + React Native)
+- 💬 [Succession Chatbot](https://github.com/rod31/succession-chatbot) — Chat with Roy family characters via FAISS + GPT RAG pipeline · [live demo](https://succession-chatbot.streamlit.app)
+- 🧠 [EEG Reaction Time Predictor](https://github.com/rod31/eeg-reaction-time) — SVM on alpha/theta EEG features to classify cognitive reaction times
 
-# 🎨 Portfolio
+## Connect
 
-Explore more at [rod31.github.io](https://rod31.github.io/)
-
-## 📫 Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/rb-aragao)
-* Email: [rodrigo01.aragao@gmail.com](mailto:rodrigo01.aragao@gmail.com)
-* GitHub: github.com/rod31
-
-<!--😊 Thanks for stopping by!🎵-->
+[Portfolio](https://rod31.github.io) · [LinkedIn](https://linkedin.com/in/rb-aragao) · [rodrigo01.aragao@gmail.com](mailto:rodrigo01.aragao@gmail.com)
