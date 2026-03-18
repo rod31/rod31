@@ -17,6 +17,7 @@ Junior AI Engineer at a GovTech startup, building RAG pipelines, LLM tooling, an
 ## Projects
 
 - 🎯 [Litema](https://github.com/rod31/litema) — Cross-media recommendation engine (embeddings + pgvector + React Native)
+- 🏥 [Disease Briefing Tool](https://github.com/rod31/disease-briefing) — LangGraph agent that generates verified medical briefings from live PubMed, ClinicalTrials.gov, and openFDA data with two-layer hallucination detection
 - 💬 [Succession Chatbot](https://github.com/rod31/succession-chatbot) — Chat with Roy family characters via FAISS + GPT RAG pipeline · [live demo](https://succession-chatbot.streamlit.app)
 - 🧠 [EEG Reaction Time Predictor](https://github.com/rod31/eeg-reaction-time) — SVM on alpha/theta EEG features to classify cognitive reaction times
 
